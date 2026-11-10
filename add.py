@@ -17,3 +17,4 @@ def mul(a,b):
 mul(10,5)
 
 print("Main")
+print ("b_1")
