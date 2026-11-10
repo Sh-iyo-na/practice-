@@ -9,3 +9,9 @@ def sub(a,b):
     print(a-b)
 
 sub(10,5)
+
+print("multiplication")
+def mul(a,b):
+    print(a*b)
+
+mul(10,5)
