@@ -17,6 +17,9 @@ def mul(a,b):
 mul(10,5)
 
 print("division")
+def div(a,b):
+    return a/b
 
+div(10,5)
 print("Main")
 print ("b_1")
